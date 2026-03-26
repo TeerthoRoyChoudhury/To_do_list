@@ -9,6 +9,8 @@ A sleek, minimal task management app built with vanilla HTML, CSS, and JavaScrip
 ---
 
 ## Preview
+🔗 **[Live Demo](teerthoroychoudhury.github.io/To_do_list)**
+
 
 
 
